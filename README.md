@@ -1,2 +1,2 @@
 # HTML-CSS
-Some simple pages & form that i've done from my internship with Fsoft.
+Some simple pages & forms that i've done with HTML-CSS from my internship with Fsoft.
